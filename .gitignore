@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/src/imagenes/freecodecamp-logo.png
+/src/componentes/Logo.js
+/src/hojas-de-estilo/Logo.css
