@@ -1,5 +1,4 @@
 import './App.css';
-import Logo from "./componentes/Logo";
 import Boton from "./componentes/Boton";
 import Pantalla from "./componentes/Pantalla";
 import BotonClear from './componentes/BotonClear';
@@ -24,7 +23,6 @@ function App() {
 
   return (
     <div className="App">
-     <Logo />
      <div className="contenedor-calculadora">
      <Pantalla
       input={input} />
