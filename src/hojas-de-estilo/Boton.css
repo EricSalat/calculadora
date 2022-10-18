@@ -23,6 +23,10 @@
     background-color: #00471b;
 }
 
+#igual {
+    background-color: #ff6600;
+}
+
 .operador:hover {
     background-color: #ff6600;
 }

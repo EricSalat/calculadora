@@ -45,7 +45,7 @@ function App() {
       <Boton manejarClic={agregarInput}>*</Boton>
      </div>
      <div className="fila">
-      <Boton manejarClic={calcularResultado}>=</Boton>
+      <Boton id="igual" manejarClic={calcularResultado}>=</Boton>
       <Boton manejarClic={agregarInput}>0</Boton>
       <Boton manejarClic={agregarInput}>.</Boton>
       <Boton manejarClic={agregarInput}>/</Boton>
